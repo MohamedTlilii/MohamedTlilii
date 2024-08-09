@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohamed Tlili</h1>
 <h3 align="center">A FullStack JS developer from Tunisia</h3>
   <div align="center">
-    <img
+<!--     <img
       width="800px"
       height="400"
       src="https://scontent.ftun14-1.fna.fbcdn.net/v/t39.30808-6/281856722_521108266401243_2509159163032268920_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=T-9K_HC6hdgQ7kNvgHBh1x1&_nc_ht=scontent.ftun14-1.fna&oh=00_AYBeFeW-OanPX-h3VPO6J7pjUad7kcxL5U2aN3dzahHMkw&oe=66B29680"
       alt=""
-    />
+    /> -->
   </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedtlilii&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedtlilii" /> </p>
 
